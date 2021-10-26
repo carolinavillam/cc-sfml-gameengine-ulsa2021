@@ -13,11 +13,12 @@ private:
 public:
   Rigidbody(b2World*& wolrd, b2Vec2* position, float width, float height,
   b2BodyType bodyType, b2Vec2* origin, float angle, float density,
-  float friction, float restitution);
+  float friction, float restitution, void* data);
   ~Rigidbody();
 
   b2Body* GetBody() const;
   b2Vec2 GetPosition() const;
   sf::Vector2f GetPosition2SFML() const;
   void MoveBody(b2Vec2* velocity);
+  void FreezeRotation(bool freeze);
 };

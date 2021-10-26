@@ -8,7 +8,7 @@ private:
   sf::RenderWindow* window;
 public:
 
-  DrawPhysics(sf::RenderWindow* window);
+  DrawPhysics(sf::RenderWindow*& window);
   ~DrawPhysics();
 
   sf::Color GLColorToSFML(const b2Color &color, sf::Uint8 alpha = 255);
