@@ -8,6 +8,8 @@ Al finalizar y enviar la orden con la tecla Entrar, un módulo interpretador de 
 
 
 
+
+
 Funcionalidad del sistema de inputs
 
 Input: Son las señales electrónicas que son enviadas hacia un destino de ingreso determinado, para su debido procesamiento.
