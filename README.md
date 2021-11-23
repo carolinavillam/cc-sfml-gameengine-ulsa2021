@@ -19,6 +19,7 @@ Esta señal es Almacenada, Ordenada, Procesada y posteriormente es enviada hacia
 
 
 Referencias
+
 Wikipedia. (2021). Command-line interface. Recuperado de https://es.wikipedia.org/wiki/Interfaz_de_l%C3%ADnea_de_comandos#Funcionamiento
 
 Sistemas. (2021). Input/Output. Recuperado de https://sistemas.com/inputoutput.php
