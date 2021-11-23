@@ -7,13 +7,13 @@ En su forma más simple, una CLI consiste en un espacio donde se pueden escribir
 Al finalizar y enviar la orden con la tecla Entrar, un módulo interpretador de órdenes analiza la secuencia de caracteres recibida y, si la sintaxis de la orden es correcta, ejecuta la orden dentro del contexto del programa o del sistema operativo donde se encuentra. Esta forma de trabajo es secuencial, y equivale a un tipo de programación paso a paso.
 
 
+
 Funcionalidad del sistema de inputs
 
 Input: Son las señales electrónicas que son enviadas hacia un destino de ingreso determinado, para su debido procesamiento.
 En primer lugar, el usuario utiliza un Periférico de Entrada (input )para poder, mediante la transmisión de impulsos eléctricos, ingresar un dato dentro del sistema.
 Cuando el Periférico de Entrada (input) esté realizando esta acción, también tendrá una acción de Salida de Datos, es decir, comenzará a enviar impulsos eléctricos hacia un dispositivo específico dentro del sistema (en primer lugar, el Procesador)
 Esta señal es Almacenada, Ordenada, Procesada y posteriormente es enviada hacia los Periféricos de Salida (output) mediante la misma vía de impulsos eléctricos, para que el usuario pueda percibir a través de sus sentidos la acción que está realizando, o bien qué es lo que se ha procesado.
-Funcionalidad básica del tiempo de ejecución de tu motor (seas, cuando se ejecuta update, draw, y los demás métodos clave que hicimos. ¿Quién se ejecuta primero?, ¿quién después? Puedes poner un diagrama para apoyarte)
 
 
 Referencias
